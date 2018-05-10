@@ -9,6 +9,6 @@
   "author": "Jeffrey K Regan <jeff@jkregan.com> (http://www.jkregan.com)",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^2.2.5"
+    "mongodb": "^2.2.35"
   }
 }
